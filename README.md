@@ -1,6 +1,8 @@
 About chardet
 =============
 
+[![Powered by NumFOCUS](https://img.shields.io/badge/powered%20by-NumFOCUS-orange.svg?style=flat&colorA=E1523D&colorB=007D8A)](http://numfocus.org)
+
 Home: https://github.com/chardet/chardet
 
 Package license: LGPL2
@@ -18,6 +20,7 @@ Current build status
 [![Linux](https://img.shields.io/circleci/project/github/conda-forge/chardet-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/chardet-feedstock)
 [![OSX](https://img.shields.io/travis/conda-forge/chardet-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/chardet-feedstock)
 [![Windows](https://img.shields.io/appveyor/ci/conda-forge/chardet-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/chardet-feedstock/branch/master)
+[![linux-aarch64](https://img.shields.io/shippable/5c32977cd1578b0700304c21/aarch64.svg?label=linux-aarch64)](https://app.shippable.com/github/Archiconda/chardet-feedstock)
 
 Current release info
 ====================
@@ -105,3 +108,12 @@ In order to produce a uniquely identifiable distribution:
  * If the version of a package **is** being increased, please remember to return
    the [``build/number``](https://conda.io/docs/user-guide/tasks/build-packages/define-metadata.html#build-number-and-string)
    back to 0.
+
+Feedstock Maintainers
+=====================
+
+* [@dan-blanchard](https://github.com/dan-blanchard/)
+* [@jschueller](https://github.com/jschueller/)
+* [@nehaljwani](https://github.com/nehaljwani/)
+* [@sigmavirus24](https://github.com/sigmavirus24/)
+
